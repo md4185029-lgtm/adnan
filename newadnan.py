@@ -1,1 +1,1 @@
-print("masti mittar")
+print("masti ")
